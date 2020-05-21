@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="areyouasimp" />
-    <h1>Hi simps</h1>
+    <h1>Hi</h1>
     <p>Are you a simp?</p>
 
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
